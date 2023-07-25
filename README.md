@@ -1,6 +1,7 @@
 # PostMagic AI
 
 PostMagic AI is a platform that leverages AI-powered content generation to help users create compelling and engaging posts on social media platforms. By connecting with LinkedIn, PostMagic AI enables users to generate well-crafted content around specific topics and seamlessly post it to their LinkedIn accounts.
+Also this repo , will contain some new features of next js and application of small features . You can find their route on /sitemap  route once you get the clone running in your local env.
 
 ## Features
 
